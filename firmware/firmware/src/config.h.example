@@ -1,0 +1,10 @@
+#pragma once
+
+// ===== Blynk Template =====
+#define BLYNK_TEMPLATE_ID   "TMPLxxxxx"
+#define BLYNK_TEMPLATE_NAME "WaterLevelMonitor"
+#define BLYNK_AUTH_TOKEN    "PUT_YOUR_DEVICE_AUTH_TOKEN_HERE"
+
+// ===== Wi-Fi =====
+static const char* WIFI_SSID = "YOUR_WIFI_SSID";
+static const char* WIFI_PASS = "YOUR_WIFI_PASSWORD";
